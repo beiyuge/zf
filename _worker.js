@@ -1,4 +1,4 @@
-const TELEGRAPH_URL = 'https://api.openai.com';
+const TELEGRAPH_URL = 'https://uyak56gced.us.aircode.run/hello';
 
 
 export default {
